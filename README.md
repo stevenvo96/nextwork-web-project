@@ -1,9 +1,8 @@
 # Java Web App Deployment with AWS CI/CD
 
+<img width="1474" alt="CICDPIPELINE IMAGE" src="https://github.com/user-attachments/assets/7f8743fb-7344-4e5f-bf17-bba789b727f3" />
+
 Welcome to this project combining Java web app development and AWS CI/CD tools!
-
-<br>
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies](#technologies)
